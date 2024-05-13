@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: white;
+}
+    
+.parent {
+    background: linear-gradient(260.1deg, #1D0158 0%, #2B1B4E 99.99%);  
+}
+
+.parent2 {
+    background: linear-gradient(315.22deg, #1D0158 -20.08%, #4E3E70 120.46%);
+}
+
+.container {
+    text-align: center;
+    padding-top: 2vw;
+}
+
+.child1 {
+    margin-bottom: 0px;
+}
+
+.container p {
+    font-size: 1.3vw;
+}
+
+.container h1 {
+    font-size: 2.8vw;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+span {
+    font-size: 4.5vw;
+    font-weight: 500;
+}
+
+.card-body {
+    background: white; 
+    
+}
+
+.cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2vw;
+    padding-bottom: 30px;
+}
+
+.cards2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2vw;
+}
+
+.card {
+    background-color: white;
+}
+
+.card h3 {
+    font-size: 2vw;
+    font-weight: 700;
+    background: white;
+    color: black;
+    margin-top: -17px;
+}
+
+.card h3 {
+    font-size: 2vw;
+    font-weight: 700;
+    background: white;
+    color: black;
+    margin-top: -17px;
+}
+
+.card p {
+    font-size: 1vw;
+    background: white;
+    color: black;
+    margin: -4px 0px -10px 0px;
+}
+
+.card p {
+    font-size: 1vw;
+    background: white;
+    color: black;
+    margin: -4px 0px -10px 0px;
+}
+
+.fa-brands {
+    font-size: 3vw;
+    background-color: white;
+   
+}
+
+.icon {
+    background-color: white;
+    position:relative;
+    border-radius: 100%;
+    display: inline-block;
+    font-size: 3vw;
+}
+
